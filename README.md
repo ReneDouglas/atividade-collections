@@ -4,7 +4,7 @@
 Foi concebido a você a tarefa de criar as consultas para um sistema de biblioteca
 em desenvolvimento pela empresa na qual você trabalha.
 
-### Modelagem
+## Modelagem
 Classes do sistema
 - Classe Autor
   - nome (String)
@@ -26,7 +26,7 @@ Classes do sistema
 
 Implemente os seguintes métodos usando **Collections, Streams e Lambdas**:
 
-### Métodos Obrigatórios:
+## Métodos Obrigatórios:
 
 1. **`List<Livro> buscarLivrosPorAutor(String nomeAutor)`**
     - Retorna todos os livros de um determinado autor
@@ -58,7 +58,7 @@ Implemente os seguintes métodos usando **Collections, Streams e Lambdas**:
 10. **`List<Livro> livrosMaisEmprestados(int top)`**
     - Retorna os N livros mais emprestados
 
-## 🧪 Parte 3: Testes (30 min)
+## 🧪 Testes
 
 Crie uma classe `Main` ou método de teste que:
 
