@@ -1,8 +1,8 @@
 # Atividade com Collections, Streams e Lambdas
 
 ## Contexto do Problema
-Foi concebido a você, a tarefa de criar as consultas para um sistema de biblioteca
-que está sendo desenvolvido pela empresa na qual você trabalha.
+Foi concebido a você a tarefa de criar as consultas para um sistema de biblioteca
+em desenvolvimento pela empresa na qual você trabalha.
 
 ### Modelagem
 Classes do sistema
